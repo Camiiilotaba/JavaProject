@@ -30,6 +30,7 @@ public class DiaSemanaSwitch {
 			break;
 			default: System.out.println("esta mal");
 		}
+		System.out.println("Hola soy Pablo")
  sc.close();
 	}
 }
