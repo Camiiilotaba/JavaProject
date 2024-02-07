@@ -29,6 +29,7 @@ public class DiaSemanaSwitch {
 			diasemana=sc.nextLine();
 			break;
 			default: System.out.println("esta mal");
+			System.out.println("hola");
 		}
  sc.close();
 	}
